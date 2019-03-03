@@ -155,7 +155,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 40%;
+  top: 44%;
   width: 100%;
   color: white;
 }
@@ -163,7 +163,7 @@ header {
 .text-contents {
   width: 80%;
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 10px;
   font-size: 13px;
   color: #b3aeb5;
 }
